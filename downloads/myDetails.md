@@ -4,6 +4,6 @@ EMAIL: manstylo@gmail.com
 
 SLACK USERNAME: CodeHunta
 
-TRACKS: Backend & Mobile Developmen
+TRACKS: Backend & Mobile Development
 
 COURSES: Python, Kotlin & Flutter
